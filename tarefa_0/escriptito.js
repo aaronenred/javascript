@@ -1,0 +1,1 @@
+/*Aquí vamos por todo o código de JavaScript das seguintes tarefas :)*/
