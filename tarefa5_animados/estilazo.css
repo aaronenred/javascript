@@ -1,0 +1,17 @@
+hr {
+    color: green;
+}
+
+h2 {
+    color: rgb(42, 165, 89);
+}
+
+body {
+    margin: 3em;
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+
+a:link, a:visited {
+    color: hotpink;
+}
